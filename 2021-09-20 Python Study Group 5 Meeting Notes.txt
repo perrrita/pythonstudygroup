@@ -1,0 +1,32 @@
+BCC PYTHON STUDY GROUP 5
+Monday 20 September 2021, 19.00-19.45, Zoom.
+
+Attendees: Jacob Bickford (Facilitator), Sarah Feehan (note-taker), Ashley Ray, Richard Wade. 
+Apologies: Riza Hussaini, Sophie O’Reilly, Graham Hughes.
+
+Discussion:
+
+o All agreed that they like the Practical Python Programming course by @dabeaz. It is well-written with plenty of info to refer to before each exercise.
+
+o Most attendees had not finished all of section 1's exercises. Jake had just about finished; Ashley had made good progress but not as much as she'd like; and Richard had got stuck at some points. Sarah had not had time to do any.
+
+o All agreed that completing the exercises was taking longer than expected.
+
+o All agreed that we would attempt to finish section 1's exercises by the next meeting, and change our aim to be completing one section per month at the minimum.
+
+o Discussed the issue of motivation. Ashley offered to put a weekly motivational notification in Slack to help.
+
+o Disussed the issue of what to do when we get stuck, particularly as some exercises don't have a full solution posted. We agreed to use the Slack channel more for discussion of problems, and sharing our code and solutions to help each other.
+
+o As yet we still don't have any ideas for potential exercises or work-related problems to solve together with Python. We'll continue with the course for now and leave that option open for when we're further along in our learning.
+
+
+Actions:
+
+o [all] attempt all section 1 exercises before next meeting.
+o [all] use Slack between meetings to discuss the exercises.
+o [Ashley] set up Slack channel weekly reminder/motivational message.
+
+Next meeting:
+4th October 2021, 19:00
+Sarah (facilitator), Sophie (note-taker).
